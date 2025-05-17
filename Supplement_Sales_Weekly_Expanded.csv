@@ -1,0 +1,300 @@
+﻿Date,Product Name,Category,Units Sold,Price,Revenue,Discount,Units Returned,Location,Platform
+1/6/2020,Whey Protein,Protein,143,31.98,4573.14,0.03,2,Canada,Walmart
+1/6/2020,Vitamin C,Vitamin,139,42.51,5908.89,0.04,0,UK,Amazon
+1/6/2020,Fish Oil,Omega,161,12.91,2078.51,0.25,0,Canada,Amazon
+1/6/2020,Multivitamin,Vitamin,140,16.07,2249.8,0.08,0,Canada,Walmart
+1/6/2020,Pre-Workout,Performance,157,35.47,5568.79,0.25,3,Canada,iHerb
+1/6/2020,BCAA,Amino Acid,154,41.19,6343.26,0.13,1,UK,Walmart
+1/6/2020,Creatine,Performance,134,32.49,4353.66,0.05,1,UK,Walmart
+1/6/2020,Zinc,Mineral,147,46.68,6861.96,0.19,0,Canada,Amazon
+1/6/2020,Collagen Peptides,Protein,147,10.96,1611.12,0.06,2,USA,Amazon
+1/6/2020,Magnesium,Mineral,134,20.76,2781.84,0,0,Canada,Amazon
+1/6/2020,Ashwagandha,Herbal,181,15.49,2803.69,0.14,1,USA,Amazon
+1/6/2020,Melatonin,Sleep Aid,164,34.41,5643.24,0.04,1,USA,Walmart
+1/6/2020,Biotin,Vitamin,159,28.79,4577.61,0.1,1,UK,iHerb
+1/6/2020,Green Tea Extract,Fat Burner,143,31.88,4558.84,0.06,3,UK,Walmart
+1/6/2020,Iron Supplement,Mineral,149,42.97,6402.53,0.22,2,Canada,iHerb
+1/6/2020,Electrolyte Powder,Hydration,154,35.92,5531.68,0.04,2,USA,Amazon
+1/13/2020,Whey Protein,Protein,150,12.08,1812,0.02,2,UK,Amazon
+1/13/2020,Vitamin C,Vitamin,128,10.61,1358.08,0.24,2,USA,Amazon
+1/13/2020,Fish Oil,Omega,145,27.49,3986.05,0.19,2,USA,Walmart
+1/13/2020,Multivitamin,Vitamin,137,14.92,2044.04,0.17,2,USA,Amazon
+1/13/2020,Pre-Workout,Performance,141,14.11,1989.51,0.24,1,Canada,iHerb
+1/13/2020,BCAA,Amino Acid,160,29.1,4656,0.05,0,Canada,Amazon
+1/13/2020,Creatine,Performance,154,42.2,6498.8,0.13,0,UK,Walmart
+1/13/2020,Zinc,Mineral,154,47.4,7299.6,0.2,2,USA,Amazon
+1/13/2020,Collagen Peptides,Protein,134,56.4,7557.6,0.06,1,Canada,iHerb
+1/13/2020,Magnesium,Mineral,148,40.65,6016.2,0.24,1,UK,Amazon
+1/13/2020,Ashwagandha,Herbal,133,54.35,7228.55,0.16,1,UK,Walmart
+1/13/2020,Melatonin,Sleep Aid,141,33.03,4657.23,0.21,2,USA,Amazon
+1/13/2020,Biotin,Vitamin,161,18.87,3038.07,0.14,5,USA,iHerb
+1/13/2020,Green Tea Extract,Fat Burner,174,18.24,3173.76,0.03,2,USA,Walmart
+1/13/2020,Iron Supplement,Mineral,163,35.29,5752.27,0.21,2,USA,Amazon
+1/13/2020,Electrolyte Powder,Hydration,151,35.42,5348.42,0.07,2,USA,Amazon
+1/20/2020,Whey Protein,Protein,157,41.81,6564.17,0.19,0,USA,Walmart
+1/20/2020,Vitamin C,Vitamin,149,22.33,3327.17,0.18,5,UK,Walmart
+1/20/2020,Fish Oil,Omega,131,50,6550,0.05,1,USA,Walmart
+1/20/2020,Multivitamin,Vitamin,159,19.4,3084.6,0.09,2,USA,Walmart
+1/20/2020,Pre-Workout,Performance,152,48.05,7303.6,0.01,2,USA,iHerb
+1/20/2020,BCAA,Amino Acid,145,17.44,2528.8,0.08,3,UK,Amazon
+1/20/2020,Creatine,Performance,148,54.31,8037.88,0.15,1,UK,iHerb
+1/20/2020,Zinc,Mineral,147,10.16,1493.52,0.15,1,USA,iHerb
+1/20/2020,Collagen Peptides,Protein,161,39.41,6345.01,0.12,2,UK,Walmart
+1/20/2020,Magnesium,Mineral,126,38.07,4796.82,0.14,1,Canada,Amazon
+1/20/2020,Ashwagandha,Herbal,156,23.49,3664.44,0.21,1,Canada,iHerb
+1/20/2020,Melatonin,Sleep Aid,128,26.71,3418.88,0.2,2,Canada,iHerb
+1/20/2020,Biotin,Vitamin,161,32.01,5153.61,0.04,1,Canada,Amazon
+1/20/2020,Green Tea Extract,Fat Burner,148,21.03,3112.44,0.15,2,UK,Walmart
+1/20/2020,Iron Supplement,Mineral,155,41.81,6480.55,0.2,0,UK,iHerb
+1/20/2020,Electrolyte Powder,Hydration,147,29.19,4290.93,0.14,2,USA,Amazon
+1/27/2020,Whey Protein,Protein,137,26.73,3662.01,0.01,0,UK,Amazon
+1/27/2020,Vitamin C,Vitamin,163,35.9,5851.7,0.07,4,UK,iHerb
+1/27/2020,Fish Oil,Omega,141,53.64,7563.24,0.21,0,Canada,iHerb
+1/27/2020,Multivitamin,Vitamin,162,34.15,5532.3,0.03,0,UK,iHerb
+1/27/2020,Pre-Workout,Performance,158,31.84,5030.72,0.18,2,USA,iHerb
+1/27/2020,BCAA,Amino Acid,136,16.77,2280.72,0.19,2,USA,iHerb
+1/27/2020,Creatine,Performance,180,12.85,2313,0.07,1,USA,Walmart
+1/27/2020,Zinc,Mineral,140,47.97,6715.8,0.11,2,UK,iHerb
+1/27/2020,Collagen Peptides,Protein,126,11.68,1471.68,0.02,3,Canada,Walmart
+1/27/2020,Magnesium,Mineral,135,30.55,4124.25,0.09,3,USA,Amazon
+1/27/2020,Ashwagandha,Herbal,174,30.94,5383.56,0.07,2,Canada,Amazon
+1/27/2020,Melatonin,Sleep Aid,156,38.27,5970.12,0.12,4,UK,iHerb
+1/27/2020,Biotin,Vitamin,154,15.7,2417.8,0.04,1,UK,Walmart
+1/27/2020,Green Tea Extract,Fat Burner,141,38.06,5366.46,0.13,0,UK,iHerb
+1/27/2020,Iron Supplement,Mineral,165,13.38,2207.7,0.18,2,USA,iHerb
+1/27/2020,Electrolyte Powder,Hydration,129,34.23,4415.67,0.04,3,Canada,Amazon
+2/3/2020,Whey Protein,Protein,165,33.11,5463.15,0.1,2,Canada,iHerb
+2/3/2020,Vitamin C,Vitamin,152,35.63,5415.76,0.2,1,UK,Amazon
+2/3/2020,Fish Oil,Omega,138,18.24,2517.12,0.08,2,UK,Amazon
+2/3/2020,Multivitamin,Vitamin,151,53.89,8137.39,0.22,3,UK,Amazon
+2/3/2020,Pre-Workout,Performance,140,59.25,8295,0.19,0,UK,Amazon
+2/3/2020,BCAA,Amino Acid,126,55.46,6987.96,0.13,1,USA,iHerb
+2/3/2020,Creatine,Performance,132,51.11,6746.52,0.1,2,Canada,Amazon
+2/3/2020,Zinc,Mineral,184,36.17,6655.28,0.07,3,Canada,Amazon
+2/3/2020,Collagen Peptides,Protein,153,49.9,7634.7,0.1,3,UK,Amazon
+2/3/2020,Magnesium,Mineral,151,44.79,6763.29,0.2,1,Canada,Amazon
+2/3/2020,Ashwagandha,Herbal,135,19.21,2593.35,0.22,2,UK,Amazon
+2/3/2020,Melatonin,Sleep Aid,135,40.76,5502.6,0.02,3,Canada,iHerb
+2/3/2020,Biotin,Vitamin,162,58.36,9454.32,0.1,5,UK,Amazon
+2/3/2020,Green Tea Extract,Fat Burner,156,18.3,2854.8,0.22,1,UK,iHerb
+2/3/2020,Iron Supplement,Mineral,136,37.99,5166.64,0.13,2,USA,Amazon
+2/3/2020,Electrolyte Powder,Hydration,168,46.57,7823.76,0.05,3,Canada,iHerb
+2/10/2020,Whey Protein,Protein,163,45.51,7418.13,0.08,1,UK,iHerb
+2/10/2020,Vitamin C,Vitamin,163,27.89,4546.07,0.12,3,UK,Amazon
+2/10/2020,Fish Oil,Omega,144,45.6,6566.4,0.21,0,Canada,Amazon
+2/10/2020,Multivitamin,Vitamin,140,27.4,3836,0.11,2,UK,Walmart
+2/10/2020,Pre-Workout,Performance,155,27.62,4281.1,0.21,1,USA,iHerb
+2/10/2020,BCAA,Amino Acid,134,26.26,3518.84,0.17,0,UK,Amazon
+2/10/2020,Creatine,Performance,137,21.36,2926.32,0.21,1,Canada,iHerb
+2/10/2020,Zinc,Mineral,155,35.63,5522.65,0.08,1,UK,Amazon
+2/10/2020,Collagen Peptides,Protein,155,53.56,8301.8,0.19,2,UK,Walmart
+2/10/2020,Magnesium,Mineral,156,55.36,8636.16,0.17,2,UK,iHerb
+2/10/2020,Ashwagandha,Herbal,132,33.02,4358.64,0.22,1,USA,iHerb
+2/10/2020,Melatonin,Sleep Aid,146,15.54,2268.84,0.11,0,Canada,Amazon
+2/10/2020,Biotin,Vitamin,142,24.61,3494.62,0.23,2,UK,iHerb
+2/10/2020,Green Tea Extract,Fat Burner,162,58.14,9418.68,0.18,1,UK,Walmart
+2/10/2020,Iron Supplement,Mineral,163,53.64,8743.32,0.03,2,USA,Walmart
+2/10/2020,Electrolyte Powder,Hydration,151,22.09,3335.59,0,1,USA,Amazon
+2/17/2020,Whey Protein,Protein,143,24.86,3554.98,0.07,2,Canada,iHerb
+2/17/2020,Vitamin C,Vitamin,165,39.66,6543.9,0.22,0,Canada,iHerb
+2/17/2020,Fish Oil,Omega,129,49.73,6415.17,0.01,1,Canada,Walmart
+2/17/2020,Multivitamin,Vitamin,151,51.57,7787.07,0.15,0,USA,Amazon
+2/17/2020,Pre-Workout,Performance,131,43.46,5693.26,0.21,3,USA,Walmart
+2/17/2020,BCAA,Amino Acid,152,31.52,4791.04,0.08,1,UK,Amazon
+2/17/2020,Creatine,Performance,160,54.63,8740.8,0.11,2,UK,Amazon
+2/17/2020,Zinc,Mineral,155,45.13,6995.15,0.06,1,USA,iHerb
+2/17/2020,Collagen Peptides,Protein,132,34.38,4538.16,0.16,3,Canada,Walmart
+2/17/2020,Magnesium,Mineral,154,35.31,5437.74,0.16,0,USA,Amazon
+2/17/2020,Ashwagandha,Herbal,141,33.62,4740.42,0.01,0,USA,iHerb
+2/17/2020,Melatonin,Sleep Aid,144,19.8,2851.2,0.15,1,USA,iHerb
+2/17/2020,Biotin,Vitamin,139,10.28,1428.92,0,0,USA,Walmart
+2/17/2020,Green Tea Extract,Fat Burner,117,26.94,3151.98,0.2,1,Canada,Amazon
+2/17/2020,Iron Supplement,Mineral,150,56.59,8488.5,0.1,0,UK,Amazon
+2/17/2020,Electrolyte Powder,Hydration,154,27.26,4198.04,0.13,3,Canada,Amazon
+2/24/2020,Whey Protein,Protein,150,59.64,8946,0.03,1,UK,Walmart
+2/24/2020,Vitamin C,Vitamin,146,30.55,4460.3,0.23,2,UK,iHerb
+2/24/2020,Fish Oil,Omega,154,51.19,7883.26,0.24,3,USA,Amazon
+2/24/2020,Multivitamin,Vitamin,123,12.98,1596.54,0.15,2,USA,Walmart
+2/24/2020,Pre-Workout,Performance,133,32.81,4363.73,0.09,0,Canada,Amazon
+2/24/2020,BCAA,Amino Acid,147,13.55,1991.85,0.02,1,UK,Amazon
+2/24/2020,Creatine,Performance,175,43.93,7687.75,0.09,2,UK,Amazon
+2/24/2020,Zinc,Mineral,170,53.68,9125.6,0.18,0,UK,iHerb
+2/24/2020,Collagen Peptides,Protein,169,36.7,6202.3,0.04,0,Canada,iHerb
+2/24/2020,Magnesium,Mineral,147,34.3,5042.1,0.14,0,UK,iHerb
+2/24/2020,Ashwagandha,Herbal,133,27.16,3612.28,0.18,2,UK,iHerb
+2/24/2020,Melatonin,Sleep Aid,164,31.5,5166,0.17,1,Canada,iHerb
+2/24/2020,Biotin,Vitamin,143,32.32,4621.76,0.2,2,USA,iHerb
+2/24/2020,Green Tea Extract,Fat Burner,147,39.11,5749.17,0.09,2,UK,iHerb
+2/24/2020,Iron Supplement,Mineral,158,28.73,4539.34,0.04,1,UK,Amazon
+2/24/2020,Electrolyte Powder,Hydration,135,27.29,3684.15,0.04,0,Canada,Amazon
+3/2/2020,Whey Protein,Protein,155,27.03,4189.65,0.02,1,Canada,Amazon
+3/2/2020,Vitamin C,Vitamin,143,40.29,5761.47,0.09,0,Canada,iHerb
+3/2/2020,Fish Oil,Omega,157,34.28,5381.96,0.01,1,Canada,iHerb
+3/2/2020,Multivitamin,Vitamin,184,11.95,2198.8,0.01,1,UK,iHerb
+3/2/2020,Pre-Workout,Performance,136,47.81,6502.16,0.11,1,USA,Walmart
+3/2/2020,BCAA,Amino Acid,169,57.8,9768.2,0.08,3,Canada,Amazon
+3/2/2020,Creatine,Performance,154,59.2,9116.8,0.07,4,Canada,iHerb
+3/2/2020,Zinc,Mineral,146,27.02,3944.92,0.14,0,UK,Amazon
+3/2/2020,Collagen Peptides,Protein,152,48.1,7311.2,0.21,1,UK,Amazon
+3/2/2020,Magnesium,Mineral,143,19.73,2821.39,0.01,1,USA,Amazon
+3/2/2020,Ashwagandha,Herbal,152,39.02,5931.04,0.03,1,USA,Amazon
+3/2/2020,Melatonin,Sleep Aid,154,30.09,4633.86,0.25,3,Canada,Amazon
+3/2/2020,Biotin,Vitamin,154,41.03,6318.62,0.05,1,UK,Amazon
+3/2/2020,Green Tea Extract,Fat Burner,151,58.2,8788.2,0.23,2,USA,Walmart
+3/2/2020,Iron Supplement,Mineral,151,16.53,2496.03,0.2,0,UK,Amazon
+3/2/2020,Electrolyte Powder,Hydration,161,53.85,8669.85,0.24,0,USA,Amazon
+3/9/2020,Whey Protein,Protein,149,34.17,5091.33,0.22,2,USA,Walmart
+3/9/2020,Vitamin C,Vitamin,145,20.16,2923.2,0.19,1,Canada,iHerb
+3/9/2020,Fish Oil,Omega,150,38.86,5829,0.22,4,UK,Walmart
+3/9/2020,Multivitamin,Vitamin,147,48.23,7089.81,0.14,4,UK,Walmart
+3/9/2020,Pre-Workout,Performance,138,52.7,7272.6,0.11,3,Canada,Amazon
+3/9/2020,BCAA,Amino Acid,168,54.17,9100.56,0.11,2,Canada,Amazon
+3/9/2020,Creatine,Performance,154,10.96,1687.84,0.12,2,USA,Amazon
+3/9/2020,Zinc,Mineral,158,16.72,2641.76,0.07,1,USA,iHerb
+3/9/2020,Collagen Peptides,Protein,162,20.54,3327.48,0.24,0,UK,Amazon
+3/9/2020,Magnesium,Mineral,163,10.72,1747.36,0.18,3,UK,iHerb
+3/9/2020,Ashwagandha,Herbal,159,47.67,7579.53,0.19,2,Canada,iHerb
+3/9/2020,Melatonin,Sleep Aid,160,40.68,6508.8,0.02,1,UK,Walmart
+3/9/2020,Biotin,Vitamin,128,30.36,3886.08,0.02,1,USA,Walmart
+3/9/2020,Green Tea Extract,Fat Burner,132,57.38,7574.16,0.02,3,USA,Amazon
+3/9/2020,Iron Supplement,Mineral,151,13.84,2089.84,0.13,2,Canada,iHerb
+3/9/2020,Electrolyte Powder,Hydration,158,13.65,2156.7,0.1,1,Canada,Amazon
+3/16/2020,Whey Protein,Protein,140,50.17,7023.8,0.23,1,Canada,iHerb
+3/16/2020,Vitamin C,Vitamin,169,33.82,5715.58,0.06,2,Canada,Walmart
+3/16/2020,Fish Oil,Omega,145,16.15,2341.75,0.22,1,Canada,Amazon
+3/16/2020,Multivitamin,Vitamin,148,41.24,6103.52,0.02,2,UK,Amazon
+3/16/2020,Pre-Workout,Performance,140,51.13,7158.2,0.2,1,USA,Walmart
+3/16/2020,BCAA,Amino Acid,151,48.77,7364.27,0.07,1,UK,Amazon
+3/16/2020,Creatine,Performance,142,41.48,5890.16,0.01,2,Canada,Amazon
+3/16/2020,Zinc,Mineral,143,35.56,5085.08,0.01,1,USA,Amazon
+3/16/2020,Collagen Peptides,Protein,158,51.97,8211.26,0,1,Canada,iHerb
+3/16/2020,Magnesium,Mineral,159,15.09,2399.31,0.09,1,Canada,iHerb
+3/16/2020,Ashwagandha,Herbal,164,49.45,8109.8,0.22,1,Canada,iHerb
+3/16/2020,Melatonin,Sleep Aid,170,58.2,9894,0.02,2,Canada,Amazon
+3/16/2020,Biotin,Vitamin,150,41.64,6246,0.18,0,UK,iHerb
+3/16/2020,Green Tea Extract,Fat Burner,136,43.32,5891.52,0.24,2,UK,Walmart
+3/16/2020,Iron Supplement,Mineral,178,24.9,4432.2,0.03,3,UK,iHerb
+3/16/2020,Electrolyte Powder,Hydration,155,28,4340,0.24,1,USA,Amazon
+3/23/2020,Whey Protein,Protein,148,20.44,3025.12,0.09,1,UK,Walmart
+3/23/2020,Vitamin C,Vitamin,147,52.52,7720.44,0.05,2,Canada,Amazon
+3/23/2020,Fish Oil,Omega,149,20.79,3097.71,0.17,2,Canada,iHerb
+3/23/2020,Multivitamin,Vitamin,142,42.58,6046.36,0.18,1,Canada,Amazon
+3/23/2020,Pre-Workout,Performance,155,45.66,7077.3,0.05,3,Canada,Walmart
+3/23/2020,BCAA,Amino Acid,142,12.9,1831.8,0.03,1,UK,Walmart
+3/23/2020,Creatine,Performance,141,10.73,1512.93,0.09,1,UK,iHerb
+3/23/2020,Zinc,Mineral,147,30.21,4440.87,0.13,2,UK,Amazon
+3/23/2020,Collagen Peptides,Protein,156,48.7,7597.2,0.19,1,Canada,Amazon
+3/23/2020,Magnesium,Mineral,162,23.28,3771.36,0,1,UK,iHerb
+3/23/2020,Ashwagandha,Herbal,160,27.4,4384,0.09,0,USA,Amazon
+3/23/2020,Melatonin,Sleep Aid,143,58.71,8395.53,0.21,0,Canada,iHerb
+3/23/2020,Biotin,Vitamin,168,49.02,8235.36,0.11,1,USA,Amazon
+3/23/2020,Green Tea Extract,Fat Burner,143,21.41,3061.63,0.06,1,Canada,Amazon
+3/23/2020,Iron Supplement,Mineral,159,12.89,2049.51,0.24,4,USA,Amazon
+3/23/2020,Electrolyte Powder,Hydration,151,13.78,2080.78,0.09,1,UK,Amazon
+3/30/2020,Whey Protein,Protein,138,41.12,5674.56,0.2,1,Canada,iHerb
+3/30/2020,Vitamin C,Vitamin,135,41.8,5643,0.1,2,Canada,Amazon
+3/30/2020,Fish Oil,Omega,141,55.87,7877.67,0.07,1,USA,Amazon
+3/30/2020,Multivitamin,Vitamin,168,13.11,2202.48,0.04,0,UK,Amazon
+3/30/2020,Pre-Workout,Performance,155,16.71,2590.05,0.24,1,USA,Amazon
+3/30/2020,BCAA,Amino Acid,140,43.98,6157.2,0.02,1,UK,Walmart
+3/30/2020,Creatine,Performance,162,37.33,6047.46,0.11,0,USA,Amazon
+3/30/2020,Zinc,Mineral,136,20.46,2782.56,0.01,2,USA,Amazon
+3/30/2020,Collagen Peptides,Protein,165,58.03,9574.95,0.05,4,Canada,iHerb
+3/30/2020,Magnesium,Mineral,141,39.68,5594.88,0.02,2,UK,iHerb
+3/30/2020,Ashwagandha,Herbal,160,33.85,5416,0.18,1,USA,Walmart
+3/30/2020,Melatonin,Sleep Aid,155,18.13,2810.15,0.14,2,UK,iHerb
+3/30/2020,Biotin,Vitamin,150,10.45,1567.5,0.09,3,UK,Amazon
+3/30/2020,Green Tea Extract,Fat Burner,140,21.1,2954,0.08,3,USA,iHerb
+3/30/2020,Iron Supplement,Mineral,158,31.44,4967.52,0.01,1,UK,iHerb
+3/30/2020,Electrolyte Powder,Hydration,156,24.44,3812.64,0.1,3,USA,Amazon
+4/6/2020,Whey Protein,Protein,160,29.62,4739.2,0.19,3,UK,iHerb
+4/6/2020,Vitamin C,Vitamin,178,27.86,4959.08,0.2,1,UK,Walmart
+4/6/2020,Fish Oil,Omega,152,42.83,6510.16,0.06,0,USA,Amazon
+4/6/2020,Multivitamin,Vitamin,171,35.3,6036.3,0.06,0,USA,Amazon
+4/6/2020,Pre-Workout,Performance,116,53.34,6187.44,0.07,3,UK,Walmart
+4/6/2020,BCAA,Amino Acid,153,39,5967,0.13,2,USA,Walmart
+4/6/2020,Creatine,Performance,142,54.7,7767.4,0.24,3,USA,Walmart
+4/6/2020,Zinc,Mineral,147,33.82,4971.54,0.12,0,Canada,Amazon
+4/6/2020,Collagen Peptides,Protein,153,26.58,4066.74,0.21,0,Canada,iHerb
+4/6/2020,Magnesium,Mineral,127,57.04,7244.08,0.13,1,Canada,iHerb
+4/6/2020,Ashwagandha,Herbal,162,26.61,4310.82,0.17,2,Canada,Amazon
+4/6/2020,Melatonin,Sleep Aid,156,53.79,8391.24,0.13,1,USA,iHerb
+4/6/2020,Biotin,Vitamin,147,16.39,2409.33,0.19,0,UK,Amazon
+4/6/2020,Green Tea Extract,Fat Burner,147,12.73,1871.31,0.24,0,UK,Walmart
+4/6/2020,Iron Supplement,Mineral,143,21.52,3077.36,0,2,USA,Amazon
+4/6/2020,Electrolyte Powder,Hydration,185,43.15,7982.75,0.19,3,UK,iHerb
+4/13/2020,Whey Protein,Protein,147,26.26,3860.22,0.18,2,Canada,Walmart
+4/13/2020,Vitamin C,Vitamin,137,55.1,7548.7,0.2,4,USA,Walmart
+4/13/2020,Fish Oil,Omega,160,39.53,6324.8,0.17,0,USA,iHerb
+4/13/2020,Multivitamin,Vitamin,151,18.37,2773.87,0.2,2,USA,Amazon
+4/13/2020,Pre-Workout,Performance,178,23.27,4142.06,0.15,1,USA,Amazon
+4/13/2020,BCAA,Amino Acid,158,15.13,2390.54,0.13,1,Canada,iHerb
+4/13/2020,Creatine,Performance,145,51.38,7450.1,0.17,2,UK,Walmart
+4/13/2020,Zinc,Mineral,149,44.73,6664.77,0.18,3,Canada,Amazon
+4/13/2020,Collagen Peptides,Protein,142,19.76,2805.92,0.09,1,USA,Amazon
+4/13/2020,Magnesium,Mineral,157,38.1,5981.7,0.24,1,UK,iHerb
+4/13/2020,Ashwagandha,Herbal,146,49.31,7199.26,0.18,1,Canada,iHerb
+4/13/2020,Melatonin,Sleep Aid,140,50.86,7120.4,0.14,4,Canada,Walmart
+4/13/2020,Biotin,Vitamin,123,45.92,5648.16,0.22,0,UK,Amazon
+4/13/2020,Green Tea Extract,Fat Burner,162,29.83,4832.46,0.03,3,USA,Amazon
+4/13/2020,Iron Supplement,Mineral,136,24.5,3332,0.22,2,Canada,Walmart
+4/13/2020,Electrolyte Powder,Hydration,162,41.24,6680.88,0.14,3,USA,Walmart
+4/20/2020,Whey Protein,Protein,169,43.7,7385.3,0.01,2,USA,Walmart
+4/20/2020,Vitamin C,Vitamin,142,27.65,3926.3,0.16,1,Canada,iHerb
+4/20/2020,Fish Oil,Omega,159,13.42,2133.78,0.2,1,UK,iHerb
+4/20/2020,Multivitamin,Vitamin,148,26.62,3939.76,0.01,1,USA,Amazon
+4/20/2020,Pre-Workout,Performance,176,43.57,7668.32,0.16,1,USA,Walmart
+4/20/2020,BCAA,Amino Acid,147,15.07,2215.29,0.07,1,USA,iHerb
+4/20/2020,Creatine,Performance,148,13.38,1980.24,0.13,0,Canada,Walmart
+4/20/2020,Zinc,Mineral,188,30.18,5673.84,0.18,2,USA,iHerb
+4/20/2020,Collagen Peptides,Protein,147,29.88,4392.36,0.07,0,USA,iHerb
+4/20/2020,Magnesium,Mineral,149,24.37,3631.13,0.16,4,USA,Amazon
+4/20/2020,Ashwagandha,Herbal,154,13.78,2122.12,0.24,1,Canada,Amazon
+4/20/2020,Melatonin,Sleep Aid,130,41.18,5353.4,0.16,0,USA,Amazon
+4/20/2020,Biotin,Vitamin,141,45.33,6391.53,0.15,1,UK,Amazon
+4/20/2020,Green Tea Extract,Fat Burner,141,53.3,7515.3,0.24,0,UK,Amazon
+4/20/2020,Iron Supplement,Mineral,159,20.13,3200.67,0.15,2,USA,iHerb
+4/20/2020,Electrolyte Powder,Hydration,157,10.77,1690.89,0.15,1,UK,Amazon
+4/27/2020,Whey Protein,Protein,148,29.95,4432.6,0.21,0,USA,Amazon
+4/27/2020,Vitamin C,Vitamin,131,31.68,4150.08,0.02,2,USA,iHerb
+4/27/2020,Fish Oil,Omega,170,22.94,3899.8,0.11,2,Canada,iHerb
+4/27/2020,Multivitamin,Vitamin,154,22.1,3403.4,0.18,0,USA,Walmart
+4/27/2020,Pre-Workout,Performance,138,46.94,6477.72,0,0,UK,Walmart
+4/27/2020,BCAA,Amino Acid,139,22.38,3110.82,0.02,1,USA,Walmart
+4/27/2020,Creatine,Performance,159,43.64,6938.76,0.02,4,Canada,Amazon
+4/27/2020,Zinc,Mineral,164,51.15,8388.6,0.23,2,USA,iHerb
+4/27/2020,Collagen Peptides,Protein,138,47.14,6505.32,0.18,1,UK,iHerb
+4/27/2020,Magnesium,Mineral,127,56.04,7117.08,0.15,1,Canada,Walmart
+4/27/2020,Ashwagandha,Herbal,141,54.77,7722.57,0.17,2,UK,Walmart
+4/27/2020,Melatonin,Sleep Aid,148,22.42,3318.16,0.18,1,Canada,Walmart
+4/27/2020,Biotin,Vitamin,148,56.81,8407.88,0.02,3,UK,Walmart
+4/27/2020,Green Tea Extract,Fat Burner,142,11.1,1576.2,0.08,1,Canada,iHerb
+4/27/2020,Iron Supplement,Mineral,124,56.36,6988.64,0.03,2,Canada,Walmart
+4/27/2020,Electrolyte Powder,Hydration,147,23.01,3382.47,0.04,0,Canada,iHerb
+5/4/2020,Whey Protein,Protein,127,43.21,5487.67,0.22,2,Canada,iHerb
+5/4/2020,Vitamin C,Vitamin,157,24.46,3840.22,0.08,1,UK,iHerb
+5/4/2020,Fish Oil,Omega,150,27.84,4176,0.09,3,Canada,iHerb
+5/4/2020,Multivitamin,Vitamin,161,55.69,8966.09,0.24,1,UK,Walmart
+5/4/2020,Pre-Workout,Performance,145,57.06,8273.7,0.22,0,Canada,iHerb
+5/4/2020,BCAA,Amino Acid,146,35.16,5133.36,0.05,3,Canada,iHerb
+5/4/2020,Creatine,Performance,156,52.94,8258.64,0.19,1,Canada,Amazon
+5/4/2020,Zinc,Mineral,154,43.68,6726.72,0.04,2,Canada,iHerb
+5/4/2020,Collagen Peptides,Protein,140,18.26,2556.4,0,2,UK,iHerb
+5/4/2020,Magnesium,Mineral,159,18.07,2873.13,0.02,0,UK,iHerb
+5/4/2020,Ashwagandha,Herbal,140,15.27,2137.8,0.06,1,UK,Walmart
+5/4/2020,Melatonin,Sleep Aid,154,12.89,1985.06,0.1,1,Canada,iHerb
+5/4/2020,Biotin,Vitamin,154,30.79,4741.66,0.11,1,USA,Amazon
+5/4/2020,Green Tea Extract,Fat Burner,157,18.58,2917.06,0.13,1,USA,iHerb
+5/4/2020,Iron Supplement,Mineral,166,36.63,6080.58,0.03,2,USA,iHerb
+5/4/2020,Electrolyte Powder,Hydration,133,17.14,2279.62,0.17,0,USA,Amazon
+5/11/2020,Whey Protein,Protein,146,20.22,2952.12,0.13,1,Canada,iHerb
+5/11/2020,Vitamin C,Vitamin,127,38.03,4829.81,0.16,2,USA,Amazon
+5/11/2020,Fish Oil,Omega,141,46.17,6509.97,0.13,3,UK,iHerb
+5/11/2020,Multivitamin,Vitamin,163,34.25,5582.75,0.08,3,Canada,Amazon
+5/11/2020,Pre-Workout,Performance,148,52.75,7807,0.22,1,Canada,Amazon
+5/11/2020,BCAA,Amino Acid,128,50.18,6423.04,0.23,0,USA,Walmart
+5/11/2020,Creatine,Performance,127,29.47,3742.69,0.14,4,Canada,iHerb
+5/11/2020,Zinc,Mineral,127,13.71,1741.17,0.09,2,USA,Walmart
+5/11/2020,Collagen Peptides,Protein,152,21.01,3193.52,0.09,1,Canada,iHerb
+5/11/2020,Magnesium,Mineral,127,33.21,4217.67,0.18,2,USA,iHerb
+5/11/2020,Ashwagandha,Herbal,158,20.88,3299.04,0.17,1,Canada,Amazon
