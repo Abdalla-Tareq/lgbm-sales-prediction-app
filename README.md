@@ -148,7 +148,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 🙋 Contact
 
 For questions or feedback, feel free to reach out:
-- GitHub: [your-username](https://github.com/Abdalla-Tareq)
+- GitHub: [Abdalla-Tareq](https://github.com/Abdalla-Tareq)
 - Email: abdallat764@gmail.com
 
 ---
